@@ -1,3 +1,2 @@
 # reponew
-welcome
-friends
+welcome here
